@@ -1,0 +1,26 @@
+{
+  "name": "ccenha",
+  "version": "1.0.0",
+  "description": "Manage tickets to talk in meetings",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpleal/ccenha.git"
+  },
+  "keywords": [
+    "senha",
+    "ticket"
+  ],
+  "author": "José Paulo Leal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zpleal/ccenha/issues"
+  },
+  "homepage": "https://github.com/zpleal/ccenha#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

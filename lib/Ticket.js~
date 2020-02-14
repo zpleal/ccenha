@@ -1,0 +1,8 @@
+
+module.exports = class  {
+
+    constructor({uid}) {
+	this.uid = uid;
+    }
+    
+}
